@@ -19,7 +19,9 @@ public class Run {
             System.out.println(x);
         }
 
-
+        static{
+            System.out.println("INIT");
+        }
 
 
     }
